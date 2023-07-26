@@ -38,7 +38,7 @@
     .program_details_area .program_detail_wrap::before {
       left: 100px;
       transform: translateX(0);
-      height: 75%;
+      height: 100%;
     }
   }
   
